@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Strange &amp; true nevves from Jack-a-Newberries six windmills, or, The crafty, impudent, common-whore (turned bawd) anatomised and discovered in the unparralleld practises of Mris Fotheringham ... with five and twenty orders agreeed upon by consent of Mris Creswell, Betty Lawrence ... with divers others for establishing thereof / published by way of admonition to all persons to beware of that house of darkness ... by Peter Aretine, cardinall of Rome [pseud.]</title>
+            <author>Aretine, Peter.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93974</idno>
+            <idno type="STC">Wing S5835</idno>
+            <idno type="STC">ESTC R42421</idno>
+            <idno type="EEBO-CITATION">36273539</idno>
+            <idno type="OCLC">ocm 36273539</idno>
+            <idno type="VID">150301</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93974)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150301)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2240:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Strange &amp; true nevves from Jack-a-Newberries six windmills, or, The crafty, impudent, common-whore (turned bawd) anatomised and discovered in the unparralleld practises of Mris Fotheringham ... with five and twenty orders agreeed upon by consent of Mris Creswell, Betty Lawrence ... with divers others for establishing thereof / published by way of admonition to all persons to beware of that house of darkness ... by Peter Aretine, cardinall of Rome [pseud.]</title>
+                  <author>Aretine, Peter.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Rodericus e Castro,</publisher>
+                  <pubPlace>V[e]nus [i.e. London?]</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint appears to be fictitious; actual place of publication from Wing (2nd ed.).</note>
+                  <note>Reproduction of original in the Guildhall Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Aretino, Pietro, 1492-1556 --  Humor.</term>
+               <term>Castro, Rodrigo de, 1523-1600 --  Humor.</term>
+               <term>London (England) --  Social life and customs --  Humor.</term>
+               <term>Prostitution --  England --  London --  Humor.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150301:1"/>
+            <p>Strange &amp; true Nevves FROM Jack-a-Newberries Six Windmills: OR THE Crafty, impudent, Common-Whore (turnd Bawd) Anatomiſed, And diſcovered, in the unparralleld Practiſes of Mris <hi>Fotheringham,</hi> her whores, Hectors and Rumpers, in their manner of living, and erecting a <hi>Half-Crown CHUCK-OFFICE.</hi>
+            </p>
+            <p>With five and twenty Orders agreed on by conſent of Mris <hi>Creſwell, Betty Lawrence,</hi> Mris <hi>Curtis,</hi> Mris <hi>Smith,</hi> Mris <hi>Bagley,</hi> Mris <hi>Ruſſel,</hi> Mris <hi>Diamond, Kate Hare, Jane Stamford, Pegg Williams,</hi> Mris <hi>Frances: Betty Garret,</hi> with divers others for eſtabliſhing thereof.</p>
+            <p>Publiſhed by way of admonition to all perſons to beware of that Houſe of darkneſs, and Caution to ſome how they frequent it for the future, leſt their names be rendred in Capitalls, of whem there is a large Cata<g ref="char:EOLhyphen"/>logue.</p>
+            <p>BY <hi>PETER ARETINE</hi> Cardinall of <hi>ROME.</hi>
+            </p>
+            <p>
+               <hi>VNUS,</hi> Printed for <hi>Rodeticus a Caſtro,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:150301:2"/>
+            <pb facs="tcp:150301:2"/>
+            <head>THE OBSERVATIONS AND ORDERS of the Half Crown Chuck-Office lately invented and errected by Mrs. <hi>Fotheringham</hi> and her Society.</head>
+            <div type="part">
+               <p>AMongſt all the Readings, reports and obſervations of the Lives manners, and cuſtoms of the ſtately <hi>Spaniſh</hi> Dames French, Madam and Venetian Curteſans, I have never heard read or met with ſuch an impudent, and unparallel'd piece of Iniquity, as this Mrs. <hi>Fotheringham</hi> living at the ſign of the Six Windmills in the upper fields, formerly called <hi>Jack-a-Newberry,</hi> till the fruits of ſome abominable practices compelled them to take him down for fear of the multitude, and Hood-wink their Cullies, as if the Alteration of the ſign, had changed the natures of the Vultures, Har<g ref="char:EOLhyphen"/>pyes and looſe livers within, whereby, they grew more crafty every day then other and got wealth, and rich gifts out of other mens ruins ma<g ref="char:EOLunhyphen"/>king themſelves, but undoing many Families and Prentices, who day<g ref="char:EOLunhyphen"/>ly viſit them, for want of being lookt after and being diſcouraged in ſuch unlawful living, ſo that it may truely and juſtly be ſaid of that Houſe, that it hath undone (and continues ſo doing) more Yongſters then half the houſes in the City of <hi>London.</hi>
+               </p>
+               <p>This crafty Whore having ſtoln and pickt up what monies and good ſhe could of her husbands run away with her Cum-rogue a ſword Cu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb facs="tcp:150301:3"/>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Church, and ſpent on <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> with what<g ref="char:EOLhyphen"/>ever he had, which being done neceſſity compells them to part, and ſhe to her husband return, (for <hi>ſine Carere et Baccho Friget Venus</hi>) who ſent her to ſtudy miſchief in <hi>Newgate</hi> during Eleven or twelve Moneths, in which time, by advice of her fellow Collegiates, a ſtrong memory and naural endowments (like good wine in bad veſſels) ſhe grew up a moſt exquiſite Whore and an incredible profiicent for all manner of Bawdery and Roguery.</p>
+               <p>And upon her departure thence (being terribly Pepered with the French pox,) ſhe was received by the contented Cuckold her husband and re-ſettl'd in a higher, <hi>Orbe,</hi> leaving the trade of Whoring to play the Bawd, in the practice and proficiency whereof ſhe hath out-done and out-ſtript the oldeſt Beldam in mans memory, ſo that finding her ſelf over grown with Age, over-worn with her former and too frequent embraces and deſperately be-french'd, (all nauſeating Arguments and loathſom provocations to Lechery) ſhe diſcords her former trade, aſ<g ref="char:EOLhyphen"/>ſigning it (with the fruits thereof) to ſuch as ſhe has rarely educated in her School of bad manners, onely reſerving the Benefit of her Chuck office during her life time and calling a Courcil of <hi>Hectors,</hi> Whores and Rumpers with the Aſſiſtance of <hi>Betty Laurence,</hi> Myſtris <hi>Curtes,</hi> Mrs. <hi>Smith, Kate Hare,</hi> Mrs. <hi>Creſwell,</hi> Mrs. <hi>Bagley,</hi> with ſeveral others theſe following orders were agreed on and ſigned by con<g ref="char:EOLhyphen"/>ſent of this whole Council met at the Chuck office.</p>
+            </div>
+            <div type="document">
+               <head>The Orders.</head>
+               <p>Ordered that an Oath of Renuntiation be given to all Whores Hectors, Trappans and Rumpers belonging to the newly erected and lately invented Chuck office by Mrs. <hi>Fotheringham</hi> Governeſs there<g ref="char:EOLhyphen"/>of.</p>
+               <p>Ordered at a full meeting that one of the ſhe Society do ſtand upon their heads (as the Governeſs may do and did too) with all their cloathes and ſmock about their ears bare breeches to the cold wall (like Mon<g ref="char:EOLhyphen"/>ſters) leggs ſpread at large with the door of their Chuck office open, becauſe that faſhion was lately invented by Mrs. <hi>Fotheringham</hi> for her Cully-Rumpers to chuck half crown's in.</p>
+               <pb n="3" facs="tcp:150301:3"/>
+               <p>Ordered that all our <hi>Hectors,</hi> Trappans, and Rumpers do ſee the ſaid Vote put in execution, and upon information of default by any of the Society therem, he ſhall have free leave and order from this Coun<g ref="char:EOLhyphen"/>cill to exerciſe his gifts and parts where, and on whom he pleaſes, but upon neglect thereof, to have his ſtones cut off, and thrown out by the whole Society as an uſeleſs member amongſt them.</p>
+               <p>Ordered that it ſhall be lawful for ſuch as enter themſelves into our community to have free leave (without being queſtioned for the fact) to pick any mans pockets either of gold, ſilver, Rings or watches, if he put his hands in their plackets.</p>
+               <p>Ordered that all Night-walkers, Mobbs, and wandring whores, ſuch as Mrs. <hi>Diamond</hi> whoſe noſe lies flat, <hi>Jane Stamford</hi> who has had the pox ore and ore, <hi>Pegg Williams</hi> the Trappanner, Mrs. <hi>Simplon, &amp;c.</hi> which ſhall freely enter themſelves into this company receive an equal benefit of theſe orders as if preſent at the voting thereof.</p>
+               <p>Ordered that who-ſo-ever brings in a ſtrange Rumper ſhe put him to all expences poſſible (although they be of the Cuſtom-houſe) and drink Ale in black pots would poiſon a Toad, but cry it up for good, cauſe 'tis for our benefit, take three ſmall pimping, ſtinking pipes of <hi>Aranoco</hi> Tobacco, ſteept in piſſe for two pence expect no more then a pint of <hi>Mallago</hi> ſack for two ſhillings, never venture a knock under half a crown if it can be gotten though a feeling for nothing.</p>
+               <p>Ordered that no one of our Society be left in Pawn of as a pledge for the reckoning on pain of leaving their Petti-coats but make her <hi>Dick</hi> pit his Cloak if he want money without any ſoruple of Con<g ref="char:EOLhyphen"/>ſcience.</p>
+               <p>Ordered (after agreement and receit of their Bargain before hand, for it is no truſting in this caſe) no one of this Society refuſe to do the deed of nature either backwards or any other of <hi>Peter Aretines</hi> poſtures ſo ſong as ſhee's pay'd for't.</p>
+               <p>Ordered that clean ſmocks be in requeſt and alwayes ready though the Rump be rotten, and that no one ſcruple the giving the Pox (in re<g ref="char:EOLhyphen"/>gard of our great charge of Barber Chirugeons whoſe benefit may thereby be augmented) on pain of damnation from the whole Coun<g ref="char:EOLhyphen"/>cill.</p>
+               <p>Ordered that ſuch officers as are in continual play and ſtand at the receit of cuſtom be employed before any other belonging thereunto and that they attend to do druggery as conſtant and as free as a com<g ref="char:EOLhyphen"/>mon houſe of office.</p>
+               <pb n="4" facs="tcp:150301:4"/>
+               <p>Ordered that ſuch as pick their Rumpers pockets when they be drunk deny it to them when they are ſober for the credit of our good-old-cauſe.</p>
+               <p>Ordered that this extraordinary ſociety be exquiſite at putting of cuſhions under their coats cauſing their Cullie to believe they are with child, and not to take under ten pound to diſcharge them thereof, and have free leave to ſerve a dozen ſo one after another paying five ſhillings in the pound for continuing the revenues of our ſaid chuck office.</p>
+               <p>Ordered that no <hi>Hectors</hi> but our own be made uſe of in Hecking and Trappanning of mony or Bonds for the diſcharge of ſuch as are <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atch napping (napping (under pretence of being their wives (though common Whores) allowing them two ſhillings in the pound and free Quarter (without denyal) all weathers.</p>
+               <p>Ordered that all thoſe that belong to this office and are entred in the ſame chuſe no other ſporting place but the 6 Wind-mills for their Head-quarte<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s and conſtant Rendezvouz and that ſuch of our retainers that chance to be infected with the French Pox be cured thereof at the proper charge of the common ſtock without the help of an Hoſ<g ref="char:EOLhyphen"/>pitall.</p>
+               <p>Ordered, and be it ſo, That a Noſe of Wax be provided for the Go<g ref="char:EOLhyphen"/>verneſs at the care and coſt of the publick Revenue, in eaſe her Noſe ſhould drop off this Summer it being in afair way already, as her Barber Surgion can tell ſince her dreſſing on <hi>Saturday</hi> laſt, which is cauſed, and like to be effected, by ſtanding too much on her head, if it do not by his ignorance in fluxing and plaiſtring.</p>
+               <p>Ordered, That whoſoever gives the <hi>Running of the Reins,</hi> ſhall have half a Crown for the good ſervice done the Surgions of our ſaid Office, and for the P— <hi>Betty Lawrence,</hi> is commanded (as Treaſu<g ref="char:EOLhyphen"/>rer) to pay five ſhillings to the party deſerving it, and to Regiſter it in upon account, to whom it is paid, and how, and to what end and pur<g ref="char:EOLhyphen"/>poſe.</p>
+               <p>Ordered, That none of this Society diſcover the Manners and Cu<g ref="char:EOLhyphen"/>ſtomes to any but the Society, for fear of the <hi>Shrove-Tueſday</hi> Boys, (the grand enemies to our thriving) on pain of having their water<g ref="char:EOLhyphen"/>gapet ſtop'd, and their A— ſew'd up by conſent of a General Council of their own Society.</p>
+               <pb n="5" facs="tcp:150301:4"/>
+               <p>Ordered, That thoſe fools which ſpend their Eſtates or their Maſters amongſt us, and afterwards come hither without mony, have no more reſpect then a Sr. Reverence, and be kick'd out of our company as un<g ref="char:EOLhyphen"/>profitable Cuſtomers.</p>
+               <p>Ordered, That all <hi>Drapers-men, Silkmen, Mercers men,</hi> and <hi>Milli<g ref="char:EOLhyphen"/>ners men,</hi> receive the favour and ſeeming curteſie from this ſociety that can be (though they have no mony) ſo long as they bring along with Scarfs, Hoods, Gowns or Peticoats, and work them out upon our ten<g ref="char:EOLhyphen"/>der Bodies.</p>
+               <p>Ordered that two Books entituled, <hi>The night S<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>arch,</hi> and <hi>the Craf<g ref="char:EOLhyphen"/>ty Whore,</hi> be brought into this Office, and examined, to know what may be uſeful therein to train up the younger ſort, and be taken notice of ſo as to make the older ſort more exquiſite, all others to be voted de<g ref="char:EOLhyphen"/>ſtructive to our Principles, if ver<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uous and prohibited the uſe there<g ref="char:EOLhyphen"/>of.</p>
+               <p>Ordered, That none of this ſociety, whether Citizens, Seamens, or Country-Gentlemans Wife, Widdow or unmarried perſon, have any appearance, of modeſty in them, (a thing clean contrary to our profit and intereſt) but inſtead thereof, do make her <hi>Cully</hi> hold the Chamber<g ref="char:EOLhyphen"/>pot whilſt ſhe makes it roar, and be ſure to know what Ware he car<g ref="char:EOLhyphen"/>ries again and again, becauſe it is good to be ſure.</p>
+               <p>Ordered, That when a rich Citizen enquires for a young Countrey Laſſe, there be no ſcruple made of couzening him with a Common Jade, the mannagement thereof being left wholly in the will and plea<g ref="char:EOLhyphen"/>ſure of the Governeſſe, whoſe care is to do Juſtice (as tis with Hack<g ref="char:EOLhyphen"/>ney Horſes) by cauſing them to take it by turns, but for a Country gen<g ref="char:EOLhyphen"/>tle-woman who is as eaſily cozen'd with our Society as of his Coin, be careful to leave him as bare as a Birds. A— for if once gone, he will never viſit us again.</p>
+               <p>Ordered, that (if it be their deſire) the principal beauties of our ſaid Chuck-Office, have their Pictures drawn forth by our Limner (as well as their Faces) and hanged in order one after another, according to their Merits.</p>
+               <p>Be it likewiſe ordered, that no one ſhall publiſh theſe our Orders but our only beloved Patron and ſingular Tutor <hi>Peter Aretine,</hi> not ſhall preſume to print or put them to ſale, but our beloved Brother <hi>Rodericus e Caſtro.</hi>
+               </p>
+               <pb n="6" facs="tcp:150301:5"/>
+               <p>Ordered, That <hi>Betty Laurence</hi> be chief Clerk to this Committee, who is beſt acquainted with the Orders of the Houſe, and will ſee them put in Execution to a hairs Broadth.</p>
+               <closer>
+                  <signed>Betty Lawrence Clerk to the Half-Crown Chuck-Office.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="part">
+            <p>After theſe Orders had been read three times they paſſt the Council <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>emine contradicente,</hi> as uſeful and neceſſary to the ſupport of their de<g ref="char:EOLhyphen"/>clining Trade, of which I have been careful and exact to communicate to ſuch as think fit to beware of this Den of Whores, whofe actions you will find exactly composd according to their Orders, but beſt to be ig<g ref="char:EOLhyphen"/>norant of. Therefore for you Mr. <hi>N— Merchant,</hi> Mr. <hi>R— Grocer,</hi> Mr. T— <hi>Mercer,</hi> Mr. <hi>H— Silkman,</hi> Mr. <hi>W— Haberdaſher,</hi> for<g ref="char:EOLhyphen"/>bear their ſociety, or elſe I ſhall publiſh your names in Capitals, leaving <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his precious Governeſs with her Council to the <hi>Shrove-tueſday boyes,</hi> who no queſtion will do it them, if a Total rout be not executed beforehand.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
